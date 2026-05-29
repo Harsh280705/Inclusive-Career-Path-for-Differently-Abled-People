@@ -14,18 +14,16 @@ A web-based career guidance platform designed to help differently-abled individu
 * User authentication and profiles
 * Responsive and accessible design
 
+🔍 Project Highlights:
+• The career assessment and recommendation system was built using a rule-based approach, where user responses were mapped to suitable career domains through predefined logic and evaluation criteria.
+• AI/ML was specifically used for the gesture recognition enabling hands-free interaction through computer vision.
+
 ### Tech Stack
 
 * Frontend: HTML, CSS, JavaScript (ES6)
 * Backend: Firebase Authentication & Firestore
 * ML Backend: Python, Flask
 * AI/ML: TensorFlow, MediaPipe, OpenCV
-
-## Prerequisites
-
-* Node.js (v14+)
-* Python (v3.8+) *(optional for gesture recognition)*
-* Firebase Project
 
 ## 1. Clone Repository
 
