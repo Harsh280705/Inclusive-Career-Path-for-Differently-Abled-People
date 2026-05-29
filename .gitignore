@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Python Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build Files
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Firebase
+.firebase/
+
+# ML Models & Datasets
+gesture_model.h5
+*.h5
+X_landmarks.npy
+y_landmarks.npy
+*.npy
+
+# Large Dataset Files
+src/ml/dataset/
+datasets/
+data/
+
+# Temporary Files
+temp/
+tmp/
+.cache/
+
+# Backup Files
+*.BACKUP*
+*.THEME_BACKUP.html
+
+# Working Documents
+*.docx
